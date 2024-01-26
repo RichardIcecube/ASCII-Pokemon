@@ -1,5 +1,5 @@
 # ASCII-Pokemon
-A ASCII-based Pokemon game implemented for COM S 327: Advanced Programming Techniques. This project was coded in and for Linux. Through development of this game, we were expected to accomplish a handful of tasks 
+An ASCII-based Pokemon game implemented for COM S 327: Advanced Programming Techniques. This project was coded in and for Linux. Through development of this game, we were expected to accomplish a handful of tasks 
 using techniques we dicussed during lectures. <br />
 Techniques we implemented included: <br />
 * Implementing Djikstra's Algorithm for the path-finding of the AI (depicted as the white letters on the map)
